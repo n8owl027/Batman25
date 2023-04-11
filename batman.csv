@@ -1,0 +1,13 @@
+Movie_Name,Year,Duration(miniutes),Box_Office(million USD),Rating(IMDb),Actor
+Batman,1943,260,400,6.1,Lewis Wilson
+Batman and Robin,1949,263,238,5.9,Robert Lowery
+Batman,1966,105,3.9,6.5,Adam West
+Batman,1989,126,411.6,7.5,Michael Keaton
+Batman Returns,1992,126,266.8,7.1,Michael Keaton
+Batman Forever,1995,122,336.6,5.4,Val Kilmer
+Batman & Robin,1997,125,238,3.7,George Clooney
+Batman Begins,2005,140,373.7,8.2,Christian Bale
+The Dark Knight,2008,152,1006,9,Christian Bale
+The Dark Knight Rises,2012,165,1081,8.4,Christian Bale
+Batman v Superman: Dawn of Justice,2016,151,872.7,6.4,Ben Affleck
+The Batman,2022,176,770.9,7.8,Robert Pattinson
